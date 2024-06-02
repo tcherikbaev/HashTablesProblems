@@ -8,7 +8,7 @@ public class SubArraySum {
         int [] arr={1,1,1};
         int k=2;
         int result=subarraySum(arr,k);
-        System.out.println("Amount of subarray K: "+result);
+        System.out.println("Amount of subarrays K: "+result);
 
     }
     public static int subarraySum(int[] nums, int k) {
